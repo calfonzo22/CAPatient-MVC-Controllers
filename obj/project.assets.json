@@ -8978,11 +8978,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Spring-2022-Term\\PROG8550\\CAPatients\\CAPatients.csproj",
+      "projectUniqueName": "C:\\Spring-2022-Term\\PROG8560\\CAPatients\\CAPatients.csproj",
       "projectName": "CAPatients",
-      "projectPath": "C:\\Spring-2022-Term\\PROG8550\\CAPatients\\CAPatients.csproj",
+      "projectPath": "C:\\Spring-2022-Term\\PROG8560\\CAPatients\\CAPatients.csproj",
       "packagesPath": "C:\\Users\\calfo\\.nuget\\packages\\",
-      "outputPath": "C:\\Spring-2022-Term\\PROG8550\\CAPatients\\obj\\",
+      "outputPath": "C:\\Spring-2022-Term\\PROG8560\\CAPatients\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
