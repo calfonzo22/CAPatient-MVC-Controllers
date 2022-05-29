@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Areas",
+    "\\Views",
+    "\\Views\\Shared"
   ],
   "SelectedNode": "\\CAPatients.sln",
   "PreviewInSolutionExplorer": false
