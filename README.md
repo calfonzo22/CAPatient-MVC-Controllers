@@ -2,10 +2,62 @@
 ### GNU General Public License v3.0
 The reason why I decided to use this type of licensing for making public my project is because it is a variant of the Open Software Licence that does not require that the source code of derivative works be disclosed.
 
-# How to build the CAPatient-MVC-Controllers!
+## How to build the CAPatient-MVC-Controllers!
 This site has been created for recording information about patients. A database has created from script.
 The main purpose of this project is to understand how the Model-View and controller are built and how they can be modified in order to accomplish maintenance function.
 
+# How This Project Works:
+
+## Visual Studio 2019 - Project Builder
+This is the main screen where the project starts. If we take a look in the right menu, we will find folders:
+* Model
+* Views
+* Controllers
+Each of them with their specific subfolders. When the application runs, the Index for the Layout (master page) is executed and the home page is loaded. It is important to know, that each time the program runs, it uses a random port in the localport (ISS)
+
+![MVC1](https://user-images.githubusercontent.com/106482588/170911754-39ff579e-dffa-465b-b319-4974a02359b0.JPG)
+
+## Index
+This is the home page for our site. It is only configured with a basic structure, because the main goal is not related to the design, but to the read from a database in order to update information (it reads, we are not validating data at this point of the course)
+
+![MVC2](https://user-images.githubusercontent.com/106482588/170911777-fbe00dfb-6944-4ef3-a8f9-dba91ea5fbd8.JPG)
+
+## Countries Page
+Here is the list of countries there are in the database. Take a close look in the fields, so we can understand the information just show up.
+
+![MVC3](https://user-images.githubusercontent.com/106482588/170911788-8bbd3ed8-1248-4c59-bc02-e85c89454147.JPG)
+
+## Concentration Types
+
+it shows us some information than can be Edit, view (detail) or delete. The same structure has been applied to the rest of the pages on the web site.
+
+![MVC4](https://user-images.githubusercontent.com/106482588/170911819-08600e91-dcbe-4132-8600-3832c511ba7e.JPG)
+
+## Diagnosis Categories
+
+We can also edit the Diagnosis Categories. The create button is also available if we want to create new ones.
+Keep in mind this comment, because for the countries page is different.
+
+![MVC5](https://user-images.githubusercontent.com/106482588/170911828-868d46a0-a02a-463a-97c4-fa4d4c66e866.JPG)
+
+## Delete
+
+The Country Page let us only create a new information. If we choose Delete or Edit options we will not be able to accomplish neither of those. It is because the information is configured as read only.
+
+![MVC6](https://user-images.githubusercontent.com/106482588/170911834-c02d2700-6315-4773-bbcd-2ee133187f1a.JPG)
+
+## Create
+This option, specifically for this control (CACountryController) is the only one that let us to modified this table in the database. It is for a design purpose and to have a better understanding about how it works.
+
+![MVC7](https://user-images.githubusercontent.com/106482588/170911845-9b361077-59f1-40bf-afc5-026ea5dc66c1.JPG)
+
+
+
+
+
+
+
+# HOW THIS PROJECT WORKS:
 
 # CAPatient-MVC-Controllers
 Model-Views-Controllers Basic is a sample of a Web Site for a College Clinic. The following instructions will guide you in the process of bulding this SITE Maintance based in MVC.
