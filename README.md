@@ -2,6 +2,11 @@
 ### GNU General Public License v3.0
 The reason why I decided to use this type of licensing for making public my project is because it is a variant of the Open Software Licence that does not require that the source code of derivative works be disclosed.
 
+# How to build the CAPatient-MVC-Controllers!
+This site has been created for recording information about patients. A database has created from script.
+The main purpose of this project is to understand how the Model-View and controller are built and how they can be modified in order to accomplish maintenance function.
+
+
 # CAPatient-MVC-Controllers
 Model-Views-Controllers Basic is a sample of a Web Site for a College Clinic. The following instructions will guide you in the process of bulding this SITE Maintance based in MVC.
 # Objective
