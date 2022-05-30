@@ -1,3 +1,7 @@
+# Licence
+### GNU General Public License v3.0
+The reason why I decided to use this type of licensing for making public my project is because it is a variant of the Open Software Licence that does not require that the source code of derivative works be disclosed.
+
 # CAPatient-MVC-Controllers
 Model-Views-Controllers Basic is a sample of a Web Site for a College Clinic. The following instructions will guide you in the process of bulding this SITE Maintance based in MVC.
 # Objective
